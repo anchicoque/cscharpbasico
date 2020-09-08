@@ -11,6 +11,7 @@ namespace Holamundo
         static void Main(string[] args)
         {
             Console.WriteLine("Hola mundo 08-09-2020");
+            Console.ReadLine();
         }
     }
 }
